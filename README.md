@@ -1,9 +1,6 @@
 # Svelte with Typescript
 
-This is sample code for a blog post:
-
-https://codechips.me/how-to-use-typescript-with-svelte/
-
+This is the sample code for my blog post [How to use Typescript with Svelte](https://codechips.me/how-to-use-typescript-with-svelte/).
 
 ## Up and running
 
