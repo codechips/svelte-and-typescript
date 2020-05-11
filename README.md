@@ -2,7 +2,7 @@
 
 This is sample code for a blog post:
 
-https://codechips.me/ultimate-svelte-with-typescript-howto/
+https://codechips.me/how-to-use-typescript-with-svelte/
 
 
 ## Up and running
